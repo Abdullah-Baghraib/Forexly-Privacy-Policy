@@ -1,51 +1,37 @@
-# Privacy Policy for Forexly
+# forexly
 
-**Effective Date:** 2025/1/9
+## Privacy Policy
 
-Forexly (“the App”), developed by **Abdullah.dev**, respects your privacy. This Privacy Policy explains how we handle information when you use the App.
+**Last Updated: September 7, 2025**
 
----
+This Privacy Policy describes how Forexly ("we," "our," or "us") handles information when you use our mobile application (the "Application").
 
-## 1. Information We Collect
-Forexly does **not require you to create an account** or provide personal information such as your name, email, or contact details.
+### 1. Information We Collect
 
-The App may collect limited information automatically:
-- **Exchange Rate Data:** Retrieved from third-party sources to provide up-to-date conversions.  
-- **Local Data Storage:** We may store your recent currency conversions on your device using `shared_preferences`. This data never leaves your device.  
+We do not collect any personally identifiable information (PII) from you. We do not require you to create an account or provide any personal information to use our Application.
 
----
+The only information we store locally on your device is a list of your most recently used currency codes. This information is stored solely on your device to improve your user experience and is not transmitted to us or any third party.
 
-## 2. How We Use Information
-- To provide accurate and real-time currency conversions.  
-- To improve user experience by saving your recent conversions locally.  
-- We do **not sell, share, or rent your personal data** to third parties.  
+### 2. How We Use Information
 
----
+The information about your recently used currencies is used only to provide you with quick access to your frequently used currencies within the Application.
 
-## 3. Third-Party Services
-The App uses third-party APIs to fetch exchange rate data. These services may have their own privacy policies. We encourage you to review their policies separately.  
+### 3. Third-Party Services
 
----
+Our Application uses third-party APIs to provide real-time exchange rates and gold prices. These third-party services have their own privacy policies, and we encourage you to review them:
 
-## 4. Data Security
-We take reasonable measures to protect your data. Since the App stores minimal data locally and does not collect sensitive personal details, your privacy risk is low.  
+-   **Exchange Rate API:** [https://www.exchangerate-api.com/docs/privacy-policy](https://www.exchangerate-api.com/docs/privacy-policy)
+-   **Gold API:** [https://gold-api.com/privacy-policy](https://gold-api.com/privacy-policy)
 
----
+Our Application also contains links to third-party websites and services. We are not responsible for the privacy practices of these third parties.
 
-## 5. Children’s Privacy
-Forexly is not directed toward children under 13. We do not knowingly collect personal data from children.  
+### 4. Changes to This Privacy Policy
 
----
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-## 6. Changes to This Policy
-We may update this Privacy Policy from time to time. Changes will be reflected in the “Effective Date” at the top.  
+### 5. Contact Us
 
----
+If you have any questions about this Privacy Policy, you can contact us:
 
-## 7. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-- 📧 **abdullahbaghraib@gmail.com**  
-- 🌐 [https://abdullah.dev](https://abdullahdev-five.vercel.app/)  
-
----
+-   By email: abdullahbaghraib@gmail.com
+-   By visiting this page on our website: https://abdullahdev-five.vercel.app/
